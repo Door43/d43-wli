@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wli:home|Door43 (wli)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wli|d43-wli repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wli/archive/master.zip|d43-wli.zip]]
+
+**Recent Changes**
+{{changes>ns = wli}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wli|Ethnologue data]]
+
